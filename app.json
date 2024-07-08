@@ -1,7 +1,7 @@
 {
   "name": "JOEL BUG BOT",
   "description": "Hi there, I am JOEL Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255766352895, 255620814108, 255764182801, 255686745716",
-  "logo": "https://telegra.ph/file/e5834a2b98545c5c963d2.jpg",
+  "logo": "https://telegra.ph/file/7d8466e42bf46d72e1f06.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/e5834a2b98545c5c963d2.jpg"
+      "value": "https://telegra.ph/file/7d8466e42bf46d72e1f06.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
