@@ -1,6 +1,6 @@
 {
   "name": "JOEL BUG BOT",
-  "description": "Hi there, I am JOEL Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255766352895, 255620814108, 255764182801, 255686745716",
+  "description": "Hi there, I am JOEL Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255714595078,255781144539,255767578963",
   "logo": "https://telegra.ph/file/7d8466e42bf46d72e1f06.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255714595078"
+      "value": "255714595078,255767570963,255781144539"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
